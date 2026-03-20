@@ -209,3 +209,6 @@ __marimo__/
 
 #editor settings
 *.code-workspace
+
+#Data
+*nii.gz

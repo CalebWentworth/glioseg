@@ -212,3 +212,6 @@ __marimo__/
 
 #Data
 *nii.gz
+
+#model checkpoints
+*.pt
